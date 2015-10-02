@@ -56,7 +56,7 @@ var elsOp = 1;
 var backOp = 0;
 
 //Animation velocity.
-var elsVell = -0.02;
+var elsVell = -0.05;
 /*
 ***Software resources***END
 */
